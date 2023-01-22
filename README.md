@@ -15,7 +15,7 @@ Explain the role of DOCTYPE in HTML5?
 
 
 
-#. What is HTML?
+# . What is HTML?
 
 HTML is short from for Hypertext Markup Language. 
 It is a typical document markup language for developing web pages to display on the web browser.
